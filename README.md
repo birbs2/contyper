@@ -1,6 +1,6 @@
 # Contyper
 
-Contyper is a program that makes it really easy for conlangers to type any characters you might want. It is my attempt at fixing one of my biggest issues while conlanging: Special characters.
+Contyper (CT) is a program that makes it really easy for conlangers to type any characters you might want. It is my attempt at fixing one of my biggest issues while conlanging: Special characters.
 
 I always found it so annoying to copy and paste any character you might want from google. Opening up my google doc with all of my special characters or reffering to my charts to copy and paste always felt so clunky to me. 
 
